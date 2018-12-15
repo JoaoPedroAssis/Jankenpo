@@ -45,3 +45,5 @@ This is a very easy game to play, but it is important to understand the followin
 ## Extra comments
 
 * This game was developed in Portuguese, so most of the code is in this language. We think the code is simple enough so that y'all can understand it. If you don't like it, i think google translator will do the work for you.
+
+* When you try to run the compiled version, you may get an "*permission denied*" error. Just use the **chmod** command to overcome this issue.
