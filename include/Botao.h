@@ -1,6 +1,6 @@
 /**
  * @file Botao.h
- * @author Nome do time (a definir)
+ * @author Escrito por Switch Dreams
  * @brief Definiçao e implementaçao de todos os botoes presentes no jogo.
  * @version 0.99
  * @date 2018-12-02

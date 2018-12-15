@@ -41,3 +41,7 @@ This is a very easy game to play, but it is important to understand the followin
 * To place your units, click on the HeadQuarters that will deploy it and then click on the position in the field that you wish the unit to start. **You can only deploy units in your half of the field (between the second and the seventh column).**
 * Each HeadQuarters will only deploy a unit that match it's type.
 * Good Luck
+
+## Extra comments
+
+* This game was developed in Portuguese, so most of the code is in this language. We think the code is simple enough so that y'all can understand it. If you don't like it, i think google translator will do the work for you.

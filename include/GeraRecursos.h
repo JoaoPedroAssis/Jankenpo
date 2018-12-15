@@ -1,6 +1,6 @@
 /**
  * @file GeraRecursos.h
- * @author Nome do time (a definir)
+ * @author Escrito por Switch Dreams
  * @brief Definiçao e implementaçao da classe GeraRecursos. 
  * @version 0.99
  * @date 2018-12-02

@@ -1,7 +1,7 @@
 
 /**
  * @file Fabrica.h
- * @author Nome do time (a definir)
+ * @author Escrito por Switch Dreams
  * @brief Definiçao e implementaçao da classe Fabrica
  * @version 0.99
  * @date 2018-12-02
